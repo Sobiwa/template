@@ -1,2 +1,2 @@
-# image-slider
-practice
+# template
+with webpack, eslint, and prettier
