@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sobiwa/image-slider.git"
+    "url": "git+https://github.com/Sobiwa/template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sobiwa/image-slider/issues"
+    "url": "https://github.com/Sobiwa/template/issues"
   },
-  "homepage": "https://github.com/Sobiwa/image-slider#readme",
+  "homepage": "https://github.com/Sobiwa/template#readme",
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
