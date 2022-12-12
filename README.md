@@ -1,2 +1,2 @@
 # template
-with webpack, babel, eslint, and prettier
+with webpack, babel, eslint, jest, and prettier
